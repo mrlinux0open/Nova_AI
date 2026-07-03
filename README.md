@@ -2,7 +2,7 @@
 
 # ✦ NovaAI — چت‌بات هوشمند نسل 2026
 
-**ساخته شده توسط [Abbas bachari](https://github.com/Abbas-bachari)** ✨
+**ساخته شده توسط [Abbas bachari](https://github.com/mrlinux0open/Nova_AI)** ✨
 
 یک چت‌بات کامل، زیبا و فارسی با مدل‌های رایگان Cloudflare Workers AI
 — گفتگوی متنی + تولید تصویر —
@@ -131,7 +131,7 @@ const GITHUB_URL = "https://github.com/Abbas-bachari";
 
 این پروژه با ❤️ توسط **Abbas bachari** ساخته شده است.
 
-📬 ارتباط در تلگرام: [**@Mrfulihd**](https://t.me/Mrfulihd)
+📬 ارتباط در تلگرام: [**@Mrfullhd**](https://t.me/Mrfullhd)
 
 ⭐ اگر این پروژه براتون مفید بود، ستاره فراموش نشه!
 
