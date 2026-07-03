@@ -131,7 +131,7 @@ const GITHUB_URL = "https://github.com/Abbas-bachari";
 
 این پروژه با ❤️ توسط **Abbas bachari** ساخته شده است.
 
-📬 ارتباط در تلگرام: [**@Mrfullhd**](https://t.me/Mrfullhd)
+📬 ارتباط در تلگرام: [**@Mr_fullhd**](https://t.me/Mr_fullhd)
 
 ⭐ اگر این پروژه براتون مفید بود، ستاره فراموش نشه!
 
